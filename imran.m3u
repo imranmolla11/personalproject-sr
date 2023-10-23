@@ -2,4 +2,30 @@
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, GTV
 http://172.16.172.18:8080/roarzone/bk/1/index.m3u8
-#EXTINF:-2
+#EXTINF:-2tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, T Sport
+http://172.16.172.18:8080/roarzone/bk/102/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Star Sports 1
+http://172.16.172.18:8080/roarzone/bk/25/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Star Sports 2
+http://172.16.172.18:8080/roarzone/bk/26/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Sony ten 1
+http://172.16.172.18:8080/roarzone/bk/20/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Sony ten 2
+http://172.16.172.18:8080/roarzone/bk/21/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Sony ten 3
+http://172.16.172.18:8080/roarzone/bk/22/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Sony ten 5
+http://172.16.172.18:8080/roarzone/bk/24/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Ptv
+http://172.16.172.18:8080/roarzone/bk/73/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Star sport select 1
+http://172.16.172.18:8080/roarzone/bk/27/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, Star sport select 2
+http://172.16.172.18:8080/roarzone/bk/28/index.m3u8
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, 
+
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”, 
+
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”,
+
+#EXTINF:-3tvg-logo=”https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png” group-title=”Bangla”,
